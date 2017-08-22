@@ -16,5 +16,5 @@ Route::get('/', function () {
 });
 
 Route::get('/ur/home', function () {
-    return "Bienvenue sur la home Page UR";
+    return "Bienvenue sur la home Page UR de l'Union Retraite";
 });
